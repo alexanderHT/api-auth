@@ -1,7 +1,13 @@
-# api-basic
+# Api-basic
 
 ```
-Make a simple login application, admin create new user
+Make a simple login application, admin create new user.
+```
+
+# Notice
+```
+this app just have a back-end ( using node js and framework express), because of education purpose,
+how the back end handle data from front-end. so you need curl on the terminal to send request to server (this app), or using postman
 ```
 
 API
@@ -27,7 +33,7 @@ API
 
 ```
 1. npm install
-2. npm start
+2. npm run dev
 ```
 
 # how to use this app
